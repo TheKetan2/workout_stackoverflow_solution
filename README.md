@@ -1,5 +1,9 @@
 # workout_stackoverflow_solution
 
+# Screenshot
+
+![alt text](assets/screen.jpg)
+
 A new Flutter project.
 
 ## Getting Started
